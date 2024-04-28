@@ -1,0 +1,11 @@
+
+W
+java:S1141
+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8åéˆ©ò1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞıJ$7ad041c9-e1e5-46ca-8890-db83b84be7f1
+b
+java:S2259"EA "NullPointerException" could be thrown; "numbers" is nullable here.(™¯ë8öéˆ©ò1
+G	java:S106"+Replace this use of System.out by a logger.(™¯ë8úéˆ©ò1
+L	java:S106"+Replace this use of System.out by a logger.(÷Â÷ñùÿÿÿÿ8ûéˆ©ò1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿú’Ëûÿÿÿÿ8üéˆ©ò1
+G	java:S106"+Replace this use of System.out by a logger.(ŸİŠŸ8ıéˆ©ò1
