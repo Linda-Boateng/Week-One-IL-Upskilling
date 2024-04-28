@@ -1,5 +1,9 @@
 package JavaConcurrencyMultithreading.LocksAndSynchronization;
+/*
+implemented synchronization to ensure
+thread safety by locking critical section of the counter method
 
+ */
 public class ExampleUsage {
     public static void main(String[] args) throws InterruptedException {
         Counter counter = new Counter();

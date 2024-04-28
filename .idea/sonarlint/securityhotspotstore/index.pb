@@ -43,3 +43,7 @@ v
 Fsrc/JavaConcurrencyMultithreading/LocksAndSynchronization/Counter.java,4\4\44aaf02b22b43741cb19cc40c120acd637dee123
 {
 Ksrc/JavaConcurrencyMultithreading/LocksAndSynchronization/ExampleUsage.java,a\a\aa7de26c677ebc670b456ed0f6c2e9a43e955ddb
+q
+Asrc/JavaConcurrencyMultithreading/Deadlock/SimulatedDeadlock.java,0\6\06bb950671a1ff448a70d9690bee5069bfa3aa16
+p
+@src/JavaConcurrencyMultithreading/Deadlock/ResolvedDeadlock.java,4\6\46bf70e3f6d742ad8de2088102359abf4cdf0d31

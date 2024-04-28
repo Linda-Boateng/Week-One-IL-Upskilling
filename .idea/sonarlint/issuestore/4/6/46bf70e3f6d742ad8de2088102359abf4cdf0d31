@@ -1,0 +1,18 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊ¬ÊJ$02242a4b-3272-40ff-94e9-ad4622eb3c2f
+r	java:S106"+Replace this use of System.out by a logger.(¡Âùşøÿÿÿÿ8êÂÒ³ò1J$317d633a-f170-4869-996a-8f2011dd0b91
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ëÂÒ³ò1J$aeff9064-3007-4f17-b96c-c26b168ee002
+†
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8ìÂÒ³ò1J$c34129c7-0f66-46d0-806b-f83efe4caf69
+m	java:S106"+Replace this use of System.out by a logger.(ŞÉ‘ì8íÂÒ³ò1J$dc36686c-9fb3-448c-b58f-9a711b9bd143
+m	java:S106"+Replace this use of System.out by a logger.(Ó…ğ8îÂÒ³ò1J$e74cc292-f8bf-49f1-8e46-019bf493b34d
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îÂÒ³ò1J$b98ddef9-de14-4e34-8d65-2d0245011bb8
+†
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8ïÂÒ³ò1J$22a0d135-21e6-40f4-aab4-a6094132daa0
+r	java:S106$"+Replace this use of System.out by a logger.(ËÌ˜ùıÿÿÿÿ8ğÂÒ³ò1J$2e746710-94c0-486c-a293-ed40b03c46fe
+…
+java:S2094-"BRemove this empty class, write its code or make it an "interface".(´…ÿê8ñÂÒ³ò1J$cbdc40dd-f648-4b28-b6da-6c5d7efe3594
+…
+java:S2094."BRemove this empty class, write its code or make it an "interface".(°¯Øæ8òÂÒ³ò1J$e191f08e-28f3-4adc-8411-ddcb97fc8b54
