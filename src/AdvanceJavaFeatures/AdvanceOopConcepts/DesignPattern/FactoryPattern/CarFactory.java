@@ -1,5 +1,10 @@
-package DesignPattern.FactoryPattern;
-
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.FactoryPattern;
+/*
+ Factory Pattern allows for the implementation where creation of object or class instantiation
+ is delegated to the subclasses of the super class. That is, it implements an interface
+ which define methods for creating objects and allows the subclasses to define the concrete
+ implementation for creating the objects.
+ */
 public class CarFactory {
     public static Car createCar(String carType) {
         if (carType.equalsIgnoreCase("sedan")) {

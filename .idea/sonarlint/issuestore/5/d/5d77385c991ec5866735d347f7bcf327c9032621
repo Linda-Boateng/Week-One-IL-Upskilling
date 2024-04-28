@@ -1,16 +1,16 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©°Öûÿÿÿÿ8‚Ø¦¢ò1J$0fc68aca-4b9a-4068-a03e-7a3438b215e4
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©°Öûÿÿÿÿ8‚Ø¦¢ò1J$94e4d0ad-9ea3-4222-8aa8-430751d95428
 —
-java:S1450"TRemove the "color" field and declare it as a local variable in the relevant methods.(È„…¦8ˆØ¦¢ò1J$623401ae-03f7-4d22-872b-4172b993012e
+java:S1450"TRemove the "color" field and declare it as a local variable in the relevant methods.(È„…¦8ˆØ¦¢ò1J$31ce34fe-4792-4ed3-99b4-941a009267ae
 –
-java:S1450"TRemove the "doors" field and declare it as a local variable in the relevant methods.(Ø·­i8ˆØ¦¢ò1J$d5ce7fdc-c37f-40d8-bfc5-8bfb000366fa
+java:S1450"TRemove the "doors" field and declare it as a local variable in the relevant methods.(Ø·­i8ˆØ¦¢ò1J$224c9a29-837d-472b-bcbd-9c8fc8d794bb
 œ
-java:S1450"TRemove the "seats" field and declare it as a local variable in the relevant methods.(Ô½úùùÿÿÿÿ8ˆØ¦¢ò1J$6ad5b235-71e9-403c-b532-bf98053c37e6
-m	java:S106"+Replace this use of System.out by a logger.(•¢‹·8ŒØ¦¢ò1J$686f3d4c-f670-499b-94e2-66827f78bb4d
-l	java:S106"+Replace this use of System.out by a logger.(ìñŒl8Ø¦¢ò1J$f3ee91f9-2dc5-4e6d-8e5b-b8893da27b85
+java:S1450"TRemove the "seats" field and declare it as a local variable in the relevant methods.(Ô½úùùÿÿÿÿ8ˆØ¦¢ò1J$3aab76dd-47c5-4cf8-8abf-5e7957d7c926
+m	java:S106"+Replace this use of System.out by a logger.(•¢‹·8ŒØ¦¢ò1J$ea20367d-af83-4760-b0da-7c087192f4e5
+l	java:S106"+Replace this use of System.out by a logger.(ìñŒl8Ø¦¢ò1J$932c6af3-5e79-473a-bb93-22fd35f26a79
 q
-java:S1068")Remove this unused "seats" private field.(Ô½úùùÿÿÿÿ8Ø¦¢ò1J$86b49d00-776f-48c7-b266-134d557dc232
+java:S1068")Remove this unused "seats" private field.(Ô½úùùÿÿÿÿ8Ø¦¢ò1J$c991a2d8-101c-4d85-87db-90d1bfe163dc
 l
-java:S1068")Remove this unused "color" private field.(È„…¦8Ø¦¢ò1J$07cde95c-e0e4-462f-9302-dc5dba825376
+java:S1068")Remove this unused "color" private field.(È„…¦8Ø¦¢ò1J$289a2a65-353b-4ddc-bc2a-1f71c5a1357e
 k
-java:S1068")Remove this unused "doors" private field.(Ø·­i8Ø¦¢ò1J$b7cad121-87e6-4674-a2a8-d6eb04359c87
+java:S1068")Remove this unused "doors" private field.(Ø·­i8Ø¦¢ò1J$48f80430-3ebf-4d90-89e4-565569d7897a

@@ -1,4 +1,4 @@
-package DesignPattern.FactoryPattern;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.FactoryPattern;
 
 public class Sedan implements Car{
     private int seats;

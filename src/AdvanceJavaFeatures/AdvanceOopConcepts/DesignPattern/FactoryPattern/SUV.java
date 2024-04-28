@@ -1,6 +1,6 @@
-package DesignPattern.FactoryPattern;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.FactoryPattern;
 
-public class Genesis implements Car{
+public class SUV implements  Car{
     private int seats;
     private String color;
     private int doors;
@@ -14,6 +14,6 @@ public class Genesis implements Car{
 
     @Override
     public void installEngine() {
-        System.out.println("Genesis Engine Installed....");
+        System.out.println("SUV Engine Installed....");
     }
 }
