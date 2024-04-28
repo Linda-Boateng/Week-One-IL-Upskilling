@@ -45,3 +45,7 @@ Psrc/AdvanceJavaFeatures/AdvanceOopConcepts/DesignPattern/FactoryPattern/SUV.jav
 Tsrc/AdvanceJavaFeatures/AdvanceOopConcepts/DesignPattern/FactoryPattern/Genesis.java,b\c\bca3c684151a9da363096823fefc73dfe8d18964
 y
 Isrc/AdvanceJavaFeatures/AdvanceOopConcepts/InnerClasses/ShoppingCart.java,8\5\85722ad0b1f4c00953de1d1900383d56efbc2d44
+f
+6src/AdvanceJavaFeatures/Collections/DataValidator.java,d\0\d0de61ccea08cde530c45126f633949a6a92cfd4
+c
+3src/AdvanceJavaFeatures/Generics/DataValidator.java,2\a\2a34fcc36387aa73bd9464ef8e69631e78bfc17b
