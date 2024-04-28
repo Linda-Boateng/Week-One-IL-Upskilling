@@ -49,3 +49,5 @@ f
 6src/AdvanceJavaFeatures/Collections/DataValidator.java,d\0\d0de61ccea08cde530c45126f633949a6a92cfd4
 c
 3src/AdvanceJavaFeatures/Generics/DataValidator.java,2\a\2a34fcc36387aa73bd9464ef8e69631e78bfc17b
+[
++src/AdvanceJavaFeatures/Generics/Stack.java,1\e\1ed0a04a14dd273553f581e78e5b1d0b79a70263
