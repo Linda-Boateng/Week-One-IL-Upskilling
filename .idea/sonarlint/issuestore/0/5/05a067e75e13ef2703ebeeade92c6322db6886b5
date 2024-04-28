@@ -1,0 +1,16 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©°ÖûÿÿÿÿJ$1902537e-2e79-4954-9e3f-f0ca82fc487a
+—
+java:S1450"TRemove the "color" field and declare it as a local variable in the relevant methods.(È„…¦8ÜŞ®¢ò1J$5a994ee5-6450-4716-8768-065f9fd7dcdc
+–
+java:S1450"TRemove the "doors" field and declare it as a local variable in the relevant methods.(Ø·­i8ŞŞ®¢ò1J$eab11bcc-411a-429c-9515-0043bf6b98ae
+œ
+java:S1450"TRemove the "seats" field and declare it as a local variable in the relevant methods.(Ô½úùùÿÿÿÿ8ŞŞ®¢ò1J$4bf0048b-03c4-499d-b66f-b48d2384fb8f
+m	java:S106"+Replace this use of System.out by a logger.(•¢‹·8òÀ¬¡ò1J$c1b06e59-3af6-4efb-8c45-74d0f5037984
+r	java:S106"+Replace this use of System.out by a logger.( ‡±¸ıÿÿÿÿ8âŞ®¢ò1J$cf8a6a11-0e11-4b9c-b1fe-481de1346b52
+q
+java:S1068")Remove this unused "seats" private field.(Ô½úùùÿÿÿÿ8äŞ®¢ò1J$e20a9974-7826-4af5-89de-641b63ad1a87
+l
+java:S1068")Remove this unused "color" private field.(È„…¦8äŞ®¢ò1J$a74898e8-0f21-4161-92a7-8e3996a26758
+k
+java:S1068")Remove this unused "doors" private field.(Ø·­i8äŞ®¢ò1J$14ac64b6-fd5b-4c56-b901-e21cc80f19b5
