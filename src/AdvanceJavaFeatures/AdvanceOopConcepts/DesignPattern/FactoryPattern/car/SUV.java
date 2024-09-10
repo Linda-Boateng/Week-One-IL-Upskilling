@@ -1,6 +1,6 @@
-package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.FactoryPattern;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.FactoryPattern.car;
 
-public class SUV implements  Car{
+public class SUV implements Car {
     private int seats;
     private String color;
     private int doors;

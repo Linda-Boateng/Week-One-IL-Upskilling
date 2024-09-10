@@ -21,7 +21,7 @@ public class ShoppingCart {
         ItemIterator iterator = new ItemIterator();
         while (iterator.hasNext()) {
             Item item = iterator.next();
-            System.out.println(item.getName() + " - $" + item.getPrice());
+            System.out.println(item.name() + " - $" + item.price());
         }
     }
 
@@ -49,22 +49,7 @@ public class ShoppingCart {
         }
     }
 
-    public static class Item {
-        private final String name;
-        private final double price;
-
-        public Item(String name, double price) {
-            this.name = name;
-            this.price = price;
-        }
-
-        public String getName() {
-            return name;
-        }
-
-        public double getPrice() {
-            return price;
-        }
+    public record Item(String name, double price) {
     }
 
     public static void main(String[] args) {

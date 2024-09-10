@@ -1,5 +1,5 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ‹ˆ÷ÿÿÿÿÿJ$87afc2b6-b51b-465e-9e0f-ee97e5409c80
-r	java:S106"+Replace this use of System.out by a logger.(€®†ûÿÿÿÿ8àş–£ò1J$b7865482-3cef-400b-908a-9a52a8951a60
-r	java:S106"+Replace this use of System.out by a logger.(æÑ‘ıÿÿÿÿ8àş–£ò1J$5e02dfec-523a-4873-9969-7500dec5969a
-m	java:S106"+Replace this use of System.out by a logger.(¯·¯¯8áş–£ò1J$a1c95e3b-8ad6-4e09-90a3-1647be9d7946
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ‹ˆ÷ÿÿÿÿÿ8Ç¢íö2J$15e4f108-7c05-4bdc-bffc-9fa401616eaa
+r	java:S106"+Replace this use of System.out by a logger.(€®†ûÿÿÿÿ8Ø¢íö2J$f5f9aeed-e02f-4a06-963b-becc73aa4acf
+r	java:S106"+Replace this use of System.out by a logger.(æÑ‘ıÿÿÿÿ8Ù¢íö2J$e2328745-eec0-4781-830f-cf06114ef509
+r	java:S106"+Replace this use of System.out by a logger.(Ü¬¿úÿÿÿÿ8Ü¢íö2J$b6057f87-0204-477f-b1ea-fa4b70bcea35
