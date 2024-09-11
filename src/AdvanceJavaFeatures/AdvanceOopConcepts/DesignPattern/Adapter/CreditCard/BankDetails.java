@@ -1,4 +1,4 @@
-package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter.CreditCard;
 
 /*
     * This is the class that will be used to get the bank details of the customer.

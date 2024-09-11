@@ -1,4 +1,4 @@
-package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter.CreditCard;
 
 /*
     * This is the Target Interface :

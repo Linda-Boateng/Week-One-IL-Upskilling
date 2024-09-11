@@ -1,4 +1,8 @@
-package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter.CreditCard;
+/*
+CLASS ADAPTER(Uses Inheritance)
+Inflexible
+ */
 
 /*
     * Adapter pattern works as a bridge between two incompatible interfaces.

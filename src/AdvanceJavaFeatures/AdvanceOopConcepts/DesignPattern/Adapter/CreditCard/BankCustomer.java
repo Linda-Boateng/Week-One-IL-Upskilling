@@ -1,13 +1,13 @@
-package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter;
+package AdvanceJavaFeatures.AdvanceOopConcepts.DesignPattern.Adapter.CreditCard;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /*
 This is the adapter class.
-It implements the CreditCard interface and uses the BankCustomer class.
+It implements the CreditCard interface and extends the BankDetails Class.
  */
-public class BankCustomer extends BankDetails implements CreditCard{
+public class BankCustomer extends BankDetails implements CreditCard {
   @Override
   public void giveBankDetails() {
       try{
